@@ -9,3 +9,4 @@ _output
 # vagrant
 /.vagrant
 Vagrantfile
+.idea
