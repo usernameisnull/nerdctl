@@ -148,4 +148,4 @@ require (
 	tags.cncf.io/container-device-interface/specs-go v1.0.0 // indirect
 )
 
-replace github.com/containerd/nerdctl/mod/tigron v0.0.0 => ./mod/tigron
+replace github.com/containerd/nerdctl/mod/tigron => ./mod/tigron
